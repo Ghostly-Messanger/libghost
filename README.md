@@ -4,11 +4,13 @@
  
 ## Dependencies
 
- - GMP 
+ - GMP
+ - BLAKE3 (included in project)
+ - AES (included in project)
 
 ## Docs 
 
- In progress
+ See [Docs](docs/main.md)
  
 ## Authors
 
