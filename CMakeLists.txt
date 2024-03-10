@@ -11,9 +11,9 @@ set(HEADERS
 
 set(SOURCES
     src/proto.c
-        test/test.c
 )
 
+include(FindPkgConfig)
 find_package(PkgConfig REQUIRED)
 include_directories(include)
 
